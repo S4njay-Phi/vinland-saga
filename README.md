@@ -1,3 +1,2 @@
-# vinland-saga
-thorfin / hang
-nehi beta
+Vinland saga
+
